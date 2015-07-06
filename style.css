@@ -22,15 +22,7 @@ Highwind is distributed under the terms of the GNU GPL
 /**
  * Imports
  */
- @import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
-@font-face {
-    font-family: "Hacen Saudi Arabia";
-    font-style: normal;
-    font-weight: normal;
-    src: url("framework/typefaces/Hacen Saudi Arabia.ttf") format("embedded-opentype"), 
-    url("framework/typefaces/Hacen Saudi Arabia.ttf") format("truetype");
-}
-a { font-family: "Hacen Saudi Arabia"; }
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
 .icon_button {
   text-indent: -999em;
   position: relative;

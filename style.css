@@ -2469,7 +2469,6 @@ img.wp-smiley {
   font-size: .844em;
   font-weight: 400;
   text-transform: uppercase;
-  letter-spacing: 4px;
   filter: alpha(opacity=@opacity * 100);
   -moz-opacity: 0.75;
   -khtml-opacity: 0.75;
